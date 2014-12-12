@@ -1,4 +1,0 @@
-ell
-===
-
-Translation - Czech  language
